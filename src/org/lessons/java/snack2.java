@@ -1,7 +1,5 @@
 package org.lessons.java;
 
-import java.util.Iterator;
-
 public class snack2 {
 
 	public static void main(String[] args) {
